@@ -1,0 +1,17 @@
+.container {
+  width: auto;
+  background-color: blanchedalmond;
+}
+
+.jumbotron {
+  color:rgb(58, 233, 87);
+  background-color: beige;
+  font: bold;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+
