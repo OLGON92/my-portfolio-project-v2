@@ -1,6 +1,8 @@
+body {
+  background-color: beige;
+}
 .container {
   width: auto;
-  background-color: blanchedalmond;
 }
 
 .jumbotron {
@@ -10,8 +12,13 @@
   text-align: center;
 }
 
+.container p  {
+  float: right;
+}
+
 img {
   width: 50%;
-  height: auto;
+  height: 50%;
+  float: left;
 }
 
