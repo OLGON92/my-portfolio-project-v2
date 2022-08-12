@@ -56,3 +56,25 @@ img {
   margin-bottom: 10px;
   box-sizing: border-box;
 }
+
+.container2 {
+  text-align: center;
+}
+
+.container2 img {
+  float:none;
+  width: auto;
+  height: auto;
+}
+
+.container2 p {
+  background-color: blanchedalmond;
+}
+.hobbies {
+  float: none;
+  text-align: center;
+}
+
+.hobbies ol {
+  color: rgb(212, 63, 63);
+}
