@@ -37,3 +37,17 @@ img {
   box-sizing: border-box;
 }
 
+.align {
+  float: left;
+  text-align: center;
+  width: 80%;
+  padding: 40px;
+  border: solid rgb(212, 212, 212);
+  border-width: 10px;
+  background-color: beige;
+  display: block;
+  margin: 180px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
