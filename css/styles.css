@@ -6,8 +6,8 @@ body {
 }
 
 .jumbotron {
-  color:rgb(58, 233, 87);
-  background-color: beige;
+  color:rgb(39, 67, 226);
+  background-color: rgba(154, 105, 105, 0.404);
   font: bold;
   text-align: center;
 }
@@ -20,5 +20,20 @@ img {
   width: 50%;
   height: 50%;
   float: left;
+}
+
+.box {
+  float: right;
+  text-align: center;
+  width: 50%;
+  padding: 20px;
+  border: solid rgb(2, 0, 107);
+  border-width: 20px;
+  background-color: beige;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
