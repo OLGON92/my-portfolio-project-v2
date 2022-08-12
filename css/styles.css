@@ -1,13 +1,14 @@
 body {
   background-color: beige;
 }
+
 .container {
   width: auto;
 }
 
 .jumbotron {
   color:rgb(39, 67, 226);
-  background-color: rgba(154, 105, 105, 0.404);
+  background-color: rgba(196, 196, 196, 0.404);
   font: bold;
   text-align: center;
 }
@@ -37,6 +38,10 @@ img {
   box-sizing: border-box;
 }
 
+.highlight {
+  font-style: italic;
+}
+
 .align {
   float: left;
   text-align: center;
@@ -44,7 +49,7 @@ img {
   padding: 40px;
   border: solid rgb(212, 212, 212);
   border-width: 10px;
-  background-color: beige;
+  background-color: rgb(200, 225, 248);
   display: block;
   margin: 180px;
   margin-top: 10px;
